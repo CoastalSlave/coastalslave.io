@@ -1,1 +1,1 @@
-# coastalslave.io
+# coastalslave.github.io
